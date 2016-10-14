@@ -73,3 +73,8 @@ function run_choirboard() {
 
 }
 run_choirboard();
+
+function foo() {
+  return "<p>Hello world!</p>";
+}
+
